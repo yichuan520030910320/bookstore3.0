@@ -3,7 +3,7 @@ project(code)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(bookstore2021
+add_executable(code
         BookStore.h
         BasicFunction.cpp
         BasicFileManager.cpp
